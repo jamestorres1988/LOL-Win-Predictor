@@ -1,4 +1,4 @@
-# Supervised Learning Capstone: Predicting Wins for League of Legends
+# Predicting Wins for League of Legends
 
 In this model, we will be using several different classifiers to predict wins for League of Legends.  Here's the original [link](https://www.kaggle.com/datasnaek/league-of-legends#games.csv) for this dataset.  
 
